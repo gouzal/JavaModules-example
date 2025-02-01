@@ -1,0 +1,4 @@
+com\modular\two\Two.class
+module-info.class
+com\modular\two\TwoImpl.class
+com\modular\two\TwoInterface.class
